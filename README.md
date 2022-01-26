@@ -32,6 +32,7 @@ https://docs.google.com/spreadsheets/d/1E4ScgbXNM1YYXmu8P1FYFfJ0YoqzJa_mrLY0KA9N
 https://docs.google.com/spreadsheets/d/1E4ScgbXNM1YYXmu8P1FYFfJ0YoqzJa_mrLY0KA9NrXo/edit#gid=950377125
 
 # ER図
+<img width="899" alt="ER図 2022-01-26 10 09 17" src="https://user-images.githubusercontent.com/91811989/151089109-a18cedab-7e3b-4d55-a44f-0fe4d69850f2.png">　　
 
 # 画面遷移図
 
